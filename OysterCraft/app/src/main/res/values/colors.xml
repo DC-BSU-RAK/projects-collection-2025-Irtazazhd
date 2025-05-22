@@ -1,0 +1,6 @@
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gold">#B88A44</color>
+    <color name="darker_gray">#666666</color> <!-- 👈 This is the one you need -->
+</resources>
